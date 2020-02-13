@@ -4,7 +4,7 @@ Please answer questions for Chapter 4 next to your name.
 
 **Alvin**: 
 
-**Antonio**:
+**Antonio**: Singlue imputation methods (such as matching or regression imputation) to handle missing values would be beneficial to neural networks by increasing model robustness. These methods would assist in the model's predictive ability for test cases. Multple imputation would add similar benefit with an increased degree of predictiveness, but at the added cost of repetitive dataset generation & analysis.
 
 **Cameron**:
 
@@ -35,7 +35,7 @@ Please answer questions for Chapter 4 next to your name.
 
 **Alvin**: 
 
-**Antonio**:
+**Antonio**: 
 
 **Cameron**:
 
@@ -96,7 +96,7 @@ Please answer questions for Chapter 4 next to your name.
 
 **Alvin**: 
 
-**Antonio**:
+**Antonio**: I have not used this strategy before, but it seems effective for tuning the model to handle new data.
 
 **Cameron**:
 
@@ -127,7 +127,7 @@ Please answer questions for Chapter 4 next to your name.
 
 **Alvin**: 
 
-**Antonio**:
+**Antonio**: no experience.
 
 **Cameron**:
 
